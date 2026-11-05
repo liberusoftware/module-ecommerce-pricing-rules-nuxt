@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-pricing-rules-nuxt",
+  "capabilityKey": "planned:ecommerce:pricing-rules",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-pricing-rules-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/pricing-rules.md",
+  "presentationPlan": "projects/ecommerce/nuxt/pricing-rules.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
